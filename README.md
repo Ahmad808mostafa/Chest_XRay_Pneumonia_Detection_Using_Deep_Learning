@@ -188,5 +188,3 @@ healthcare-ai
 image-classification
 
 ---
-
-# 📄 License
